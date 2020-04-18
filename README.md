@@ -9,3 +9,5 @@
 ![dice](https://github.com/namangupta-98/Web-Dev/blob/master/Sample-images/dice.png)
 * ## [HTML 5 + CSS 3 + Adv. JavaScript + DOM(DrumRoll Kit)](https://namangupta-98.github.io/Web-Dev/Adv.%20JS%20%26%20DOM%20DrumRoll%20Kit/index.html)
 ![drum](https://github.com/namangupta-98/Web-Dev/blob/master/Sample-images/drum.png)
+* ## [HTML 5 + CSS 3 + Adv. JavaScript + DOM + jQuery(Simon Game)](https://namangupta-98.github.io/Web-Dev/Simon%20Game/index.html)
+![drum](https://github.com/namangupta-98/Web-Dev/blob/master/Sample-images/simon-game.png)
