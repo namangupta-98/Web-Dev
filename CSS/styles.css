@@ -5,7 +5,10 @@ hr{
   border-width: 5px;
   width: 5%;
   margin: 100px auto;
-  
+
+}
+.profile-picture{
+  border-radius: 100;
 }
 .top-container{
   background-color: #E4F9F5;
