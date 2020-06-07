@@ -1,5 +1,5 @@
 # Web-development
-* ## [HTML 5 (CV)](https://namangupta-98.github.io/Web-Dev/profile.html)
+* ## [HTML 5 (CV)](https://namangupta.tech/profile.html)
 ![cv1](https://github.com/namangupta-98/Web-Dev/blob/master/Sample-images/cv1.png)
 * ## [HTML 5 + CSS 3 (Profile)](https://namangupta-98.github.io/Web-Dev/index.html)
 ![cv2](https://github.com/namangupta-98/Web-Dev/blob/master/Sample-images/cv2.png)
