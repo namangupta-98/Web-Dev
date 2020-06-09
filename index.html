@@ -10,21 +10,29 @@
 </head>
 
 <body>
-  <div id="particles-js" >
-      <img class="top-cloud" src="images/cloud.png" alt="cloud-image">
-      <h1 style="position: absolute;left:30%;">I'm Naman.</h1>
-      <h2 style="position: absolute;left:40%;top:125px">a <span class="pro">pro</span>grammer.</h2>
-      <img class="bottom-cloud" src="images/cloud.png" alt="cloud-image">
-      <img class="mountain"src="images/mountain.png" alt="mountain-image">
+  <!-- PRELOADER -->
+  <div class="preload">
+    <img class="plane" src="images/airplane.png" alt="airplane">
+    <img class="cloud1" src="images/white-cloud.png" alt="cloud1">
+    <img class="cloud2" src="images/white-cloud.png" alt="cloud2">
+    <img class="cloud3" src="images/white-cloud.png" alt="cloud3">
+  </div>
+
+  <div id="particles-js">
+    <img class="top-cloud" src="images/cloud.png" alt="cloud-image">
+    <h1 style="position: absolute;left:30%;">I'm Naman.</h1>
+    <h2 style="position: absolute;left:40%;top:125px">a <span class="pro">pro</span>grammer.</h2>
+    <img class="bottom-cloud" src="images/cloud.png" alt="cloud-image">
+    <img class="mountain" src="images/mountain.png" alt="mountain-image">
   </div>
   <div class="middle-container">
     <div class="profile">
-      <img class ="profile-picture"src="images/me.jpg" alt="naman's profile picture.">
+      <img class="profile-picture" src="images/me.jpg" alt="naman's profile picture.">
       <h2>Hello.</h2>
       <p>I'm seeking a challenging position of software development engineer(SDE) in a progressive organization which provides dynamic work
-      environment for high career growth through continuous learning process, where I will be contributing to the symbolic growth of
-      the organization with my technical, innovative and logical skills. I am curious to work with an organization which provides me
-      the opportunity to explore and learn something new.</p>
+        environment for high career growth through continuous learning process, where I will be contributing to the symbolic growth of
+        the organization with my technical, innovative and logical skills. I am curious to work with an organization which provides me
+        the opportunity to explore and learn something new.</p>
     </div>
     <hr>
     <div class="skills">
@@ -59,12 +67,16 @@
     <a class="footer-link" href="https://namangupta-98.github.io/Web-Dev/profile.html">CV</a>
     <p style="color: #EAF6F6; font-size:0.75em;padding: 20px 0;">© 2020 Naman Gupta.</p>
   </div>
+
+  <!-- SCRIPTS -->
   <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
   <script>
-    particlesJS.load('particles-js','particles.json',function(){
-        console.log("json loaded");
+    particlesJS.load('particles-js', 'particles.json', function() {
+      console.log("json loaded");
     });
   </script>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </body>
 
 </html>
