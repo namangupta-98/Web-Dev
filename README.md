@@ -11,5 +11,5 @@
 ![drum](https://github.com/namangupta-98/Web-Dev/blob/master/Sample-images/drum.png)
 * ## [HTML 5 + CSS 3 + Adv. JavaScript + DOM + jQuery(Simon Game)](https://namangupta-98.github.io/Web-Dev/Simon%20Game/index.html)
 ![simon](https://github.com/namangupta-98/Web-Dev/blob/master/Sample-images/simon-game.png)
-* ## [Node.js + Express.js + MongoDB Atlas(Mutli ToDoList)](https://cryptic-gorge-24082.herokuapp.com/)
+* ## [Node.js + Express.js + MongoDB Atlas(Multi ToDoList)](https://cryptic-gorge-24082.herokuapp.com/)
 ![list](https://github.com/namangupta-98/Web-Dev/blob/master/Sample-images/todolist.png)
