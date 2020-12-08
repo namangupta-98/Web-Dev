@@ -1,8 +1,6 @@
 # Web-development
 * ## [React.js (Youtube clone)](https://clone-youtube-clone.herokuapp.com/)
-![youtube_list](https://github.com/namangupta-98/Web-Dev/blob/master/Sample-images/youtube_list.png)
 ![youtube_video](https://github.com/namangupta-98/Web-Dev/blob/master/Sample-images/youtube_video.png)
-![youtube_list](https://github.com/namangupta-98/Web-Dev/blob/master/Sample-images/youtube_comments.png)
 * ## [Node.js + Express.js + MongoDB Atlas(Multi ToDoList)](https://cryptic-gorge-24082.herokuapp.com/)
 ![list](https://github.com/namangupta-98/Web-Dev/blob/master/Sample-images/todolist.png)
 * ## [HTML 5 + CSS 3 + Adv. JavaScript + DOM + jQuery(Simon Game)](https://namangupta-98.github.io/Web-Dev/Simon%20Game/index.html)
