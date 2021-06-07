@@ -1,0 +1,1266 @@
+    1  open .
+    2  cd ..
+    3  open .
+    4  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    5  brew install httrack wget 
+    6  brew update
+    7  /Volumes/Folx\ 5.23\(13963\)\ 1/Extra/rhash ; exit;
+    8  exit
+    9  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   10  /Volumes/Installer\ 1/setup ; exit;
+   11  /Library/Developer/CommandLineTools/usr/bin/python3 /Users/namangupta/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py pip install -U pylint --user
+   12  cd frontend
+   13  npm run dev
+   14  /Volumes/Installer\ 1/setup ; exit;
+   15  Sudo spctl --master-disable
+   16  compaudit | xargs chmod g-w,o-w
+   17  sudo compaudit | xargs chmod g-w,o-w
+   18  compaudit | xargs chmod g-w,o-w
+   19  cd frontend
+   20  npm run dev
+   21  cd Desktop
+   22  cd QuantaVid
+   23  rm -rf .git
+   24  ls
+   25  git clone https://github.com/jnayush92/QuantaVid.git
+   26  mv QuantaVid QuantaVidWebsite
+   27  git clone https://github.com/jnayush92/QuantaVid.git
+   28  cd QuantaVid
+   29  code .
+   30  cd ..
+   31  ls
+   32  ls QuantaVid
+   33  rm -rf QuantaVid
+   34  git clone --single-branch --branch video-on-server  https://github.com/jnayush92/QuantaVid.git
+   35  cd QuantaVid
+   36  npm i 
+   37  ls
+   38  npm start
+   39  cd Desktop
+   40  touch index.html
+   41  mv index.html index.txt
+   42  mv index.txt index.html
+   43  edit index.html
+   44  textedit index.html
+   45  gedit index.html
+   46  rm -rf index.html
+   47  exit
+   48  nodemon .
+   49  npm -g i nodemon
+   50  sudo npm -g i nodemon
+   51  nodemon .
+   52  cd Desktop/QuantaVid/QuantaVidWebsite
+   53  code .
+   54  python --version
+   55  python3 --version
+   56  cd server
+   57  pip3 list
+   58  pip3 install --upgrade pip3
+   59  pip install --upgrade pip
+   60  pip3 install --upgrade pip
+   61  pip3 install --upgrade pip --user
+   62  pip3 install requirements.txt
+   63  pip3 -m pip install requirements.txt
+   64  pip3 install -U -r requirements.txt
+   65  python3 summary.py 
+   66  python3 -m nltk.downloader stopwords
+   67  python3 summary.py 
+   68  python3 -m nltk.downloader punkt
+   69  python3 summary.py 
+   70  python3 summary.py > result.txt
+   71  python3 summary.py > result2.txt
+   72  git clone --single-branch --branch dev  https://github.com/jnayush92/QuantaVid.git
+   73  ls
+   74  mv QuantaVid
+   75  mv QuantaVid Desktop/QuantaVid
+   76  cd Desktop/QuantaVid
+   77  code .
+   78  cd Desktop/QuantaVid
+   79  code .
+   80  cd Desktop
+   81  mkdir ts
+   82  cd ts
+   83  code .
+   84  npm init -y
+   85  npm i typescript
+   86  npx tsc --init --root-dir src
+   87  npx tsc --init --rootdir src
+   88  mkdir src
+   89  cd src
+   90  touch index.html app.ts
+   91  npx tsc --watch
+   92  npm start
+   93  cd ..
+   94  rm -rf ts
+   95  cd QuantaVid
+   96  cd server
+   97  npm start
+   98  cd Desktop
+   99  mkdir ht
+  100  cd ht
+  101  httrack https://learning.oreilly.com/library/view/full-stack-react-projects/
+  102  cd ..
+  103  rm -rf ht
+  104  xcode-select --install
+  105  brew tap mongodb/brew
+  106  brew tap | grep mongodb
+  107  brew install mongodb-community@4.4
+  108  cd Desktop
+  109  git clone https://github.com/PacktPublishing/Full-Stack-React-Projects-Second-Edition.git
+  110  mongorestore --db seoblog Desktop/dump/seoblog
+  111  mongod --dbpath=/Users/namangupta/data
+  112  mongo
+  113  mongod --dbpath=/Users/namangupta/data
+  114  mkdir data
+  115  mongod --dbpath=/Users/namangupta/data
+  116  mongorestore --db seoblog Desktop/dump/seoblog
+  117  mongorestore --db seoblog Desktop/dump/
+  118  cd Desktop
+  119  git clone
+  120  git clone https://github.com/StephenGrider/microservices-casts.git
+  121  open .
+  122  rm -rf microservices-casts
+  123  mongod --dbpath=/Users/namangupta/data
+  124  history
+  125  cd Desktop
+  126  cd QuantaVid
+  127  ls
+  128  rm -rf QuantaVid
+  129  ls
+  130  git clone --single-branch --branch testing  https://github.com/jnayush92/QuantaVid.git
+  131  code .
+  132  cd QuantaVid
+  133  cd server
+  134  npm start
+  135  npm i 
+  136  npm audit fic
+  137  npm audit fix
+  138  npm start
+  139  grep -rnw . -e "allQueries"
+  140  grep -rnw . -e "/models/allQueries"
+  141  cd Desktop
+  142  git clone https://github.com/QuantaVid/QuantaVid.git
+  143  cd QuantaVid
+  144  mv -r  * ../
+  145  mv  * ../
+  146  cd Desktop/QuantaVid/QuantaVid
+  147  ls
+  148  ls -a
+  149  mv .* ../
+  150  ls
+  151  ls -a
+  152  cd ..
+  153  cd Desktop/QuantaVid/QuantaVid
+  154  ls
+  155  ls -a
+  156  cd ..
+  157  ls -a
+  158  cd Desktop
+  159  git clone https://github.com/QuantaVid/QuantaVid.git
+  160  cd QuantaVid
+  161  code .
+  162  ls
+  163  cd server
+  164  mkdir config controllers models routes validators
+  165  npm i nodemon
+  166  cd ..
+  167  mkdir frontend
+  168  cd frontend
+  169  mkdir actions components helpers pages public
+  170  touch package.json
+  171  npm i react react-dom next
+  172  git add .
+  173  git status
+  174  cd server
+  175  cd ../server
+  176  touch index.js
+  177  cd models 
+  178  touch user.js video.js
+  179  cd ../routes
+  180  touch user.js video.js
+  181  cd ..
+  182  cd controllers
+  183  touch user.js video.js
+  184  cd ../validators
+  185  cd ..
+  186  git add .
+  187  git commit -m "file_folder_structure"
+  188  git push origin master
+  189  npm i mongoose express cors
+  190  git fetch
+  191  git checkout dev
+  192  cd server
+  193  cd backend
+  194  grep -rnw . -e "express-jwt"
+  195  npm i 
+  196  npm start
+  197  mkdir helpers
+  198  cd helpers
+  199  touch dbErrorHandler
+  200  mv dbErrorHandler dbErrorHandler.js
+  201  cd ..
+  202  npm start
+  203  npm star
+  204  npm start
+  205  git add .
+  206  git status
+  207  git commit -m "user & auth functionalities added"
+  208  git push origin dev
+  209  git fetch
+  210  git add .
+  211  git status
+  212  git commit -m "readme update"
+  213  git push origin dev
+  214  git status
+  215  git add .
+  216  git status
+  217  npm start
+  218  git fetch
+  219  git add .
+  220  git commit -m "user-model update"
+  221  git push origin dev
+  222  git pull ...
+  223  git pull 
+  224  git pull --force
+  225  cd ..
+  226  git commit -m  "Update user-model"
+  227  git pull
+  228  git fetch
+  229  git add .
+  230  git commit -m "Update user-model"
+  231  git push origin dev
+  232  git status
+  233  git fetch
+  234  git pull
+  235  git fetch
+  236  git pull
+  237  npm start
+  238  cd server
+  239  npm start
+  240  npm i
+  241  npm start
+  242  grep -rnw . -e "fileupload"
+  243  grep -rnw . -e "req.files"
+  244  git pull
+  245  git add .
+  246  git commit -m  "mongo update"
+  247  git push origin dev
+  248  cd ..
+  249  git pull 
+  250  git pull
+  251  npm start
+  252  cd server
+  253  npm start
+  254  npm i
+  255  npm start
+  256  cd server
+  257  npm start
+  258  cd server
+  259  tree
+  260  brew install tree
+  261  tree
+  262  tree --file-limit 3
+  263  tree -L 3
+  264  tree -L 2
+  265  tree -L 1
+  266  tree -L 2
+  267  npm start
+  268  cd server
+  269  npm start
+  270  git checkout dev
+  271  git checkout 
+  272  git checkout dev
+  273  rm -rf *
+  274  ls
+  275  ls -a
+  276  rm -rf .DS_Store
+  277  rm -rf .dockerignore
+  278  rm -rf .gcloudignore
+  279  rm -rf .git
+  280  rm -rf .gitignore
+  281  git clone --single-branch --branch dev  https://github.com/jnayush92/QuantaVid.git
+  282  git add .
+  283  git commit -m "minor bugs"
+  284  git push origin dev
+  285  cd QuantaVid
+  286  cd server
+  287  nodemon .
+  288  npm i
+  289  cd QuantaVid/frontend
+  290  npm i
+  291  npm audit fix
+  292  nodemon .
+  293  npm start
+  294  npm i firebase
+  295  npm start
+  296  npm i react-player
+  297  npm start
+  298  nodemon .
+  299  git pull
+  300  npm start
+  301  npm i 
+  302  npm start
+  303  git pull
+  304  npm start
+  305  git add .
+  306  git commit -m "blog functionality"
+  307  git push origin dev
+  308  npm start
+  309  git status
+  310  git restore controllers/blog.js
+  311  git pull
+  312  cd 
+  313  cd Downloads
+  314  cat social-media-5187243_1920.png
+  315  cd
+  316  cd Desktop
+  317  cat > photo.txt
+  318  git pull
+  319  git restore helpers/GoogleStorage.js
+  320  cd server
+  321  git restore helpers/GoogleStorage.js
+  322  git pull
+  323  npm start
+  324  ls
+  325  cd nltk_data
+  326  la
+  327  open .
+  328  cd ..
+  329  rm -rf nltk_data
+  330  ls
+  331  cd Downloads
+  332  ls
+  333  open .
+  334  mv google-cloud-sdk ../
+  335  ls
+  336  cd 
+  337  cd google-cloud-sdk
+  338  ls
+  339  ./install.
+  340  ./install.sh
+  341  cd server
+  342  gcloud config
+  343  gcloud config list
+  344  gcloud auth login
+  345  gcloud config list
+  346  gcloud project list
+  347  gcloud config set project quantavid-web-de
+  348  gcloud config list
+  349  gcloud project describe
+  350  gcloud projects describe
+  351  gsutil
+  352  gsutil list
+  353  npm start
+  354  gcloud auth application-default login
+  355  npm start
+  356  git add .
+  357  git commit -m  "blog functionality"
+  358  git pull
+  359  git push origin dev
+  360  cd backend
+  361  npm i @sendgrid/mail
+  362  npm install -g npm
+  363  sudo npm install -g npm
+  364  git pull
+  365  cd server
+  366  git pull
+  367  cd Desktop
+  368  npx create-next-app app_name 
+  369  cd app_name
+  370  code .
+  371  npm i typescript @types/node @types/react --save-dev
+  372  npm run dev
+  373  cd frontend
+  374  cd pages
+  375  touch index.tsx
+  376  cd ../public
+  377  mkdir css images
+  378  cd ..
+  379  touch next.config.js
+  380  touch config.js
+  381  cd pages
+  382  touch _document.tsx _app.tsx
+  383  touch ../public/css/styles.css
+  384  cd ..
+  385  npm i typescript @types/node @types/react --save-dev
+  386  npm run dev
+  387  ls -a
+  388  cd ..
+  389  cd server
+  390  ls -a
+  391  cd ..
+  392  git add .
+  393  git commit -m "basic configuration"
+  394  git pull
+  395  git push origin dev
+  396  cd server
+  397  npm start
+  398  git add .
+  399  git commit -m "user/blog model-routes update"
+  400  git pull
+  401  git push origin dev
+  402  cd frontend
+  403  cd actions
+  404  touch form.js
+  405  cd server
+  406  npm i node-mailjet
+  407  cd ..
+  408  c
+  409  mongod --dbpath=/Users/namangupta/data
+  410  cd backend
+  411  npm start
+  412  cd frontend
+  413  npm run dev
+  414  git pull
+  415  git init 
+  416  git add .
+  417  git commit -m "portfolio"
+  418  git remote set-url git@github.com:namangupta-98/Portfolio.git
+  419  git remote set-url --add Portfolio https://github.com/namangupta-98/Portfolio.git
+  420  git remote set-url --add namangupta-98 https://github.com/namangupta-98/Portfolio.git
+  421  git remote add origin https://github.com/namangupta-98/Portfolio.git
+  422  git push origin master
+  423  git pull
+  424  git pull https://github.com/namangupta-98/Portfolio.git main
+  425  git pull https://github.com/namangupta-98/Portfolio.git master
+  426  git pull https://github.com/namangupta-98/Portfolio.git main
+  427  git remote add origin https://github.com/namangupta-98/Portfolio.git
+  428  git remote remove origin https://github.com/namangupta-98/Portfolio.git
+  429  npx create-next-app my-app 
+  430  cd my-app
+  431  code .
+  432  npm i typescript @types/node @types/react --save-dev
+  433  npm run dev
+  434  cd ..
+  435  rm -rf my-app
+  436  git pull
+  437  cd server
+  438  npm start
+  439  npm remove node-mailjet
+  440  npm install mailjet-sendemail
+  441  npm start
+  442  git pull
+  443  npm start
+  444  npm i node-mailjet
+  445  npm start
+  446  git pull
+  447  grep -rnw . -e "sendEmail"
+  448  cd server
+  449  npm start
+  450  npm remove node-mailjet
+  451  npm i @sendgrid/mail
+  452  npm remove mailjet-sendemail
+  453  npm start
+  454  git add .
+  455  git commit -m "contact"
+  456  git pull
+  457  ping 192.168.0.1
+  458  ping 8.8.8.8
+  459  git add .
+  460  git commit -m "update auto-gen pass"
+  461  git push origin dev
+  462  npm start
+  463  npm i 
+  464  npm start
+  465  grep -rnw . -e "sendEmail"
+  466  git add .
+  467  git commit -m "forgot & reset password"
+  468  git push origin dev
+  469  git pull
+  470  git add .
+  471  cd Desktop/Web-Development/web-pro
+  472  ls
+  473  mkdir ht
+  474  cd hT
+  475  pwd
+  476  cd ..
+  477  ls
+  478  cd hT
+  479  cd ..
+  480  cd ht
+  481  httrack https://arunabharjun.com/
+  482  httrack https://blogaroo.in/
+  483  open .
+  484  cd Desktop/Web-Development/web-pro
+  485  cd ht
+  486  httrack https://arunabharjun.com/
+  487  cd
+  488  cd Desktop/Web-Development/web-pro
+  489  ls
+  490  cd arunabharjun.com
+  491  code .
+  492  git commit -m "route update"
+  493  git push origin dev
+  494  git pull
+  495  cd Desktop/QuantaVid-Current
+  496  git clone --single-branch --branch dev  https://github.com/jnayush92/QuantaVid.git
+  497  cd QuantaVid
+  498  code .
+  499  cd server
+  500  npm i 
+  501  cd frontend
+  502  npm i
+  503  npm audit fix
+  504  sudo npm install -g npm 
+  505  cd Desktop
+  506  mkdir frontend
+  507  cd frontend
+  508  code .
+  509  cd Desktop/Web-Development/Practice-Dev
+  510  ls
+  511  cd ..
+  512  ls
+  513  cd Second-Edition
+  514  ls
+  515  cd Chapter11\ and\ 12
+  516  cd mern-mediastream
+  517  code .
+  518  npm i --use-npm
+  519  npm audit fix
+  520  npm run development
+  521  cd
+  522  mongod --dbpath=/Users/namangupta/data
+  523  npm run development
+  524  cd ..
+  525  cd Desktop
+  526  mkdir Quantavid-v02
+  527  cd QuantaVid
+  528  cd ..
+  529  cd Quantavid-v02
+  530  mkdir frontend backend
+  531  code .
+  532  cd frontend 
+  533  npx create-react-app my-app --template typescript\n
+  534  npx create-react-app .  --template typescript\n
+  535  ls -a
+  536  rm -rf .git .gitignore
+  537  npm start
+  538  cd
+  539  cd Downloads
+  540  ls
+  541  rm input.txt
+  542  mv qv-logo.ico ../Desktop/QuantaVid-Current/QuantaVid/frontend/public
+  543  cd  ../Desktop/QuantaVid-Current/QuantaVid/frontend/public
+  544  rm favicon.ico
+  545  mv qv-logo.ico favicon.ico
+  546  cd Desktop
+  547  npx create-react-app my-app --template typescript\n
+  548  cd frontend
+  549  cd src
+  550  mkdir assets actions 
+  551  cd Desktop
+  552  git clone https://github.com/advijit/BlogMan
+  553  git clone https://github.com/adavijit/BlogMan.git
+  554  cd BlogMan
+  555  code .
+  556  cd back-end
+  557  npm i 
+  558  cd front-end
+  559  npm i 
+  560  mongod --dbpath=/Users/namangupta/dat
+  561  mongod --dbpath=/Users/namangupta/data
+  562  ps -aux | grep 27017
+  563  ps -a | grep 27017
+  564  sudo kill -9 `sudo lsof -t -i:27017`
+  565  mongod --dbpath=/Users/namangupta/data
+  566  npm start
+  567  cd Desktop
+  568  mkdir QuantaVid_new
+  569  cd QuantaVid_new
+  570  git clone https://github.com/jnayush92/QuantaVid.git
+  571  cd QuantaVid
+  572  ls
+  573  cd ..
+  574  npm audit fix
+  575  npm start
+  576  npm update
+  577  npm audit fix
+  578  npm start
+  579  cd server
+  580  npm start
+  581  nodemon .
+  582  nodemon index.js
+  583  cd frontend
+  584  npm start
+  585  cd ..
+  586  git pull 
+  587  cd frontend
+  588  sudo npm i -g nodemon
+  589  npm start
+  590  cd server
+  591  npm start
+  592  cd frontend
+  593  node -v
+  594  npm start
+  595  npm i 
+  596  npm audit fix
+  597  npm start
+  598  cd Desktop/QuantaVid-Current
+  599  git clone --single-branch --branch dev  https://github.com/jnayush92/QuantaVid.git
+  600  cd QuantaVid
+  601  code .
+  602  cd server
+  603  npm i 
+  604  npm start
+  605  nodemon index.js
+  606  npm audit fix
+  607  npm audit fix --force
+  608  npm start
+  609  nodemon index.js
+  610  history
+  611  nodemon index.js
+  612  cd server
+  613  npm start
+  614  npm i 
+  615  nodemon index.js
+  616  mongod --dbpath=/Users/namangupta/data
+  617  npm start
+  618  nodemon index.js
+  619  npm start
+  620  nodemon index.js
+  621  npm start
+  622  sudo kill -9 `sudo lsof -t -i:27017`
+  623  cd server
+  624  npm start
+  625  cd server
+  626  nodemon index.js
+  627  cd server/
+  628  nodemon index.js
+  629  cd frontend
+  630  npm i
+  631  npm audit fix
+  632  npm start
+  633  nodemon index.js
+  634  python3
+  635  nltk.download("stopwords")
+  636  python3
+  637  nodemon index.js
+  638  python3
+  639  nodemon index.js
+  640  brew install sourcetree
+  641  git history
+  642  git pull
+  643  cd server
+  644  npm start
+  645  node .
+  646  cd frontend
+  647  npm start
+  648  grep -rnw . -e "views"
+  649  cd server
+  650  grep -rnw . -e "views"
+  651  npm i 
+  652  npm audit fix
+  653  git pull
+  654  ls -a
+  655  rm -rf .git 
+  656  cd backend
+  657  npm start
+  658  cd frontend
+  659  npm run dev
+  660  mongod --dbpath=/Users/namangupta/data
+  661  npm start
+  662  ipconfig
+  663  ip a
+  664  ifconfig
+  665  ifconfig | grep 192
+  666  npm start
+  667  npm run dev
+  668  monogd --dbpath=/Users/namangupta/data
+  669  mongod --dbpath=/Users/namangupta/data
+  670  cd backend
+  671  npm start
+  672  cd frontend
+  673  npm run dev
+  674  cd
+  675  cd Desktop
+  676  touch data.txt
+  677  mongod --dbpath=/Users/namangupta/data
+  678  cd backend
+  679  npm start
+  680  cd frontend
+  681  npm run dev
+  682  mongod --dbpath=/Users/namangupta/data
+  683  cd frontend
+  684  cd ../backend
+  685  npm start
+  686  cd frontend
+  687  npm run dev
+  688  cd Desk
+  689  cd Desktop
+  690  mkdir ht
+  691  cd ht
+  692  httrack https://nextjs-admin.paljs.com/
+  693  httrack https://nextjs-admin.paljs.com/extra-components/accordion
+  694  httrack https://nextjs-admin.paljs.com/dashboard
+  695  cd nextjs-admin.paljs.com
+  696  pwd
+  697  cd extra-components
+  698  ls
+  699  mv * *.html
+  700  mv * ./*.html
+  701  mv ./* ./*.html
+  702  mv *. *.html
+  703  ls | xargs mv * *.html
+  704  mv accordion accordion.html
+  705  mv actions actions.html
+  706  mv alert alert.html
+  707  mv cards cards.html
+  708  mv chat chat.html
+  709  cd ..
+  710  code .
+  711  git init
+  712  git add .
+  713  rm -rf .git
+  714  git init
+  715  git add .
+  716  rm -rf .git 
+  717  touch .gitignore README.md
+  718  git init
+  719  git add .
+  720  git commit -m "first-commit"
+  721  git remote add origin https://github.com/namangupta-98/Portfolio.git
+  722  git push origin master
+  723  git pull origin dev
+  724  git pull origin master
+  725  git push origin master
+  726  git pull ...
+  727  git pull
+  728  git pull origin master
+  729  git status
+  730  git add .
+  731  rm -rf .git
+  732  cd ..
+  733  git clone https://github.com/namangupta-98/Portfolio.git
+  734  cd Portfolio
+  735  code .
+  736  git add .
+  737  git commit -m "till-forgot-pass"
+  738  git push origin master
+  739  cd Desktop
+  740  mkdir deep-email
+  741  npm init
+  742  npm init -y
+  743  touch index,js
+  744  mv index,js index.js
+  745  npm i express deep-email-validator
+  746  npm audit fix
+  747  node index.js
+  748  cd frontend
+  749  npm i jsonwebtoken
+  750  npm audit fix;
+  751  cd ../backend
+  752  npm i google-auth-library
+  753  npm audit fix
+  754  npm start
+  755  mongod --dbpath=/Users/namangupta/data
+  756  cd frontend
+  757  npm i react-google-login
+  758  npm audit fix
+  759  npm run dev
+  760  npx browserslist@latest --update-db
+  761  npm run dev
+  762  npx browserslist@latest --update-db
+  763  npm run dev
+  764  ifconfig
+  765  mongod --dbpath=/Users/namangupta/data
+  766  cd backend
+  767  npm start
+  768  npm run dev
+  769  cd frontend
+  770  npm run dev
+  771  git add .
+  772  git commit -m "complete"
+  773  git push origin master
+  774  cd Desktop
+  775  git clone --single-branch --branch keshav-local https://github.com/QuantaVid/QuantaVid.git
+  776  git clone --single-branch keshav-local --branch https://github.com/QuantaVid/QuantaVid.git 
+  777  xcode-select --install
+  778  git clone --single-branch keshav-local --branch https://github.com/QuantaVid/QuantaVid.git 
+  779  git clone --single-branch  --branch keshav-local  https://github.com/QuantaVid/QuantaVid.git 
+  780  cd QuantaVid
+  781  npm i 
+  782  npm start
+  783  code .
+  784  npm start
+  785  xcode-select --install
+  786  brew update
+  787  cd Desktop/SaleWebDesign.com-HTML5-Canvas-Guide
+  788  find . -type f -name "[SaleWebDesign.Com]" -exec rm -f "{}" +;
+  789  find . -type f -name "[SaleWebDesign.Com].txt" -exec rm -f "{}" +;
+  790  find . -name '*.vtt' | xargs  rm -f\n
+  791  find . -name "*.vtt" | xargs  rm -f\n
+  792  find . -name "*.vtt" -type f -delete
+  793  find . -name "" -type f -delete
+  794  find . -name "[SaleWebDesign.Com].txt" -type f -delete
+  795  find . -name "__MACOSX" -type f -delete
+  796  find . "*.txt"
+  797  find . *.txt
+  798  find . -name "*.txt"
+  799  find . -name "*.txt" | xargs rm -rf
+  800  find . -name "*.txt" -type f -delete
+  801  cd ..
+  802  cd
+  803  cd ../..
+  804  cd ..
+  805  ope .
+  806  open .
+  807  npm i -g firebase-tools
+  808  sudo npm i -g firebase-tools
+  809  cd Desktop
+  810  git clone https://github.com/YLiohenki/example-fabricJS-ReactJS-app.git
+  811  cd example-fabricJS-ReactJS-app
+  812  code .
+  813  npm i 
+  814  sudo npm i -g npm 
+  815  npm i 
+  816  npm i --force
+  817  npm i 
+  818  npm audit fix
+  819  rm -rf .git
+  820  npm start
+  821  npm update
+  822  npm audit fix
+  823  cd Desktop
+  824  git clone https://github.com/Cabonilla/teach_it.git
+  825  cd teach_it
+  826  code .
+  827  cd Desktop/example-fabricJS-ReactJS-app
+  828  npm i 
+  829  npm audit fix
+  830  npm run dev
+  831  npm start
+  832  code .
+  833  npm start
+  834  cd Desktop
+  835  git clone https://github.com/honey93/OrderKitchen.git
+  836  cd OrderKitchen
+  837  code .
+  838  cd backend-my-app
+  839  ls
+  840  npm i
+  841  npm audit fix
+  842  npm audit fix --force
+  843  npm start
+  844  cd
+  845  mongod --dbpath=/Users/namangupta/data
+  846  cd backend-my-app
+  847  npm start
+  848  npm i 
+  849  npm audit fix --force
+  850  cd backend-my-app
+  851  cd Desktop
+  852  vim course.sh
+  853  ./course.sh 
+  854  chmod +x course.sh
+  855  ./course.sh 
+  856  brew install unrar
+  857  curl --user-agent "Googlebot/2.1 (+http://www.google.com/bot.html)" -v https://quantavid-vyiztljbvq-el.a.run.app/
+  858  cd Desktop
+  859  git clone --single-branch --branch naman-local https://github.com/QuantaVid/QuantaVid.git Quantavid
+  860  cd Quantavid
+  861  code .
+  862  cd server
+  863  npm i 
+  864  cd frontend
+  865  npm i
+  866  npm i --force
+  867  npm run dev
+  868  sudo npm update -g npm
+  869  npm run dev
+  870  python3
+  871  pip install nltk
+  872  pip3 install nltk
+  873  python3 -m pip install --upgrade pip
+  874  pip install nltk --user
+  875  pip3 install nltk --user
+  876  cd server
+  877  requirements.txt
+  878  touch requirements.txt
+  879  pip3 install ntlk.corpus
+  880  pip3 install -r requirements.txt --user
+  881  python3
+  882  cd Desktop
+  883  git clone --single-branch --branch gourav-local https://github.com/QuantaVid/QuantaVid.git Server-Side-Video_Rendering
+  884  cd
+  885  git add .
+  886  cd Desktop/Quantavid
+  887  git add .
+  888  git commit -m "requirements.txt"
+  889  git pull origin naman-local
+  890  git push origin naman-local
+  891  git config --global user.name namangupta-98
+  892  git config --global user.email guptanaman.gupta1@gmail.com
+  893  git add .
+  894  git commit -m "requirements.txt"
+  895  git push origin naman-local
+  896  cd server
+  897  npm run dev
+  898  cd frontend
+  899  npm run dev
+  900  git pull origin naman-local
+  901  npm run dev
+  902  cd frontend
+  903  npm run dev
+  904  cd server
+  905  npm run dev
+  906  cd frontend
+  907  npm run dev
+  908  cd ..
+  909  git stash
+  910  git pull origin naman-local
+  911  cd server
+  912  npm run dev
+  913  cd frontend
+  914  npm i 
+  915  npm run dev
+  916  npm i react-iframe
+  917  npm run dev
+  918  rs
+  919  npm i helmet
+  920  npm i express
+  921  npm rund ev
+  922  npm run dev
+  923  npm remove express helmet
+  924  npm run dev
+  925  git stash
+  926  git pull origin naman-local
+  927  npm run dev
+  928  git stash
+  929  git fetch 
+  930  npm i 
+  931  cd server
+  932  npm i
+  933  cd frontend
+  934  npm i
+  935  npm run dev
+  936  cd Desktop
+  937  git clone --single-branch --branch keshav-local https://github.com/QuantaVid/QuantaVid.git Quantavid
+  938  cd Quantavid
+  939  code.
+  940  code .
+  941  cd Desktop
+  942  git clone --single-branch --branch naman-local https://github.com/QuantaVid/QuantaVid.git Quantavid
+  943  cd Quantavid
+  944  code .
+  945  cd server
+  946  npm i 
+  947  cd frontend
+  948  npm i
+  949  npm run dev
+  950  npm i --force
+  951  npm run dev
+  952  cd ser
+  953  cd backend
+  954  npm i 
+  955  npm run dev
+  956  cd frontend
+  957  npm i 
+  958  npm audit fix
+  959  npm i fs-extra
+  960  npm run dev
+  961  ifconfig
+  962  ifconfig | grep 192.168
+  963  touch Dockerfile
+  964  npm run build
+  965  npm start
+  966  npm run build
+  967  cd backend/
+  968  npm run dev
+  969  npm run build
+  970  npm start
+  971  gcloud components update
+  972  gcloud builds submit --tag gcr.io/portfolio-blog/portfolio:v1
+  973  touch .dockerignore
+  974  gcloud builds submit --tag gcr.io/portfolio-blog/portfolio:v1
+  975  gcloud describe
+  976  gcloud info
+  977  gcloud auth login
+  978  gcloud config set project portfolio-blog
+  979  gcloud info
+  980  gcloud auth list
+  981  gcloud auth revoke admin@quantavid.com
+  982  gcloud auth list
+  983  gcloud projects describe
+  984  gcloud projects describe portfolio-blog
+  985  gcloud config set project portfolio-blog-303321
+  986  gcloud projects describe portfolio-blog-303321
+  987  gcloud builds submit --tag gcr.io/portfolio-blog/portfolio:v1
+  988  gcloud container images list
+  989  gcloud info
+  990  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio:v1
+  991  gcloud run deploy portfolio-blog  --image gcr.io/portfolio-blog-303321/portfolio:v1
+  992  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio:v1.1
+  993  gcloud run deploy portfolio-blog  --image gcr.io/portfolio-blog-303321/portfolio:v1.1
+  994  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio:v1.2
+  995  gcloud run deploy portfolio-blog  --image gcr.io/portfolio-blog-303321/portfolio:v1.2
+  996  npm build
+  997  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio:v1.3
+  998  npm -v
+  999  sudo npm i update npm -g
+ 1000  npm audit fix
+ 1001  sudo npm audit fix
+ 1002  cd frontend
+ 1003  node -v
+ 1004  npm i
+ 1005  npm i --force
+ 1006  cd backend
+ 1007  npm i 
+ 1008  npm run dev
+ 1009  npm run build
+ 1010  npm start
+ 1011  cd
+ 1012  cd Desktop/Web-Development/Practice-Dev/Portfolio
+ 1013  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio:v1.3
+ 1014  cd frontend
+ 1015  npm i pm2
+ 1016  cd ..
+ 1017  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio:v1.4
+ 1018  gcloud run deploy portfolio-blog  --image gcr.io/portfolio-blog-303321/portfolio:v1.4
+ 1019  gcloud run services delete portfolio-blog
+ 1020  cd backend
+ 1021  touch .dockerignore Dockerfile
+ 1022  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio-backend:v1
+ 1023  gcloud components update
+ 1024  gcloud run deploy portfolio-blog-backend  --image gcr.io/portfolio-blog-303321/portfolio-backend:v1
+ 1025  cd ..
+ 1026  cd frontend
+ 1027  touch Dockerfile
+ 1028  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio-frontend:v1
+ 1029  gcloud run deploy portfolio-blog-frontend  --image gcr.io/portfolio-blog-303321/portfolio-frontend:v1
+ 1030  npm build
+ 1031  npm run build
+ 1032  npm start -p 8080
+ 1033  npm run start -p 8080
+ 1034  npm install next react react-dom --save
+ 1035  npm build
+ 1036  npm run build
+ 1037  npm run start
+ 1038  npm run start -p 8080
+ 1039  npm run dev -p 8080
+ 1040  npm start
+ 1041  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio-frontend:v1.1
+ 1042  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio-frontend:v1
+ 1043  gcloud run deploy portfolio-blog-frontend  --image gcr.io/portfolio-blog-303321/portfolio-frontend:v1
+ 1044  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio-frontend:v1
+ 1045  gcloud run deploy portfolio-blog-frontend  --image gcr.io/portfolio-blog-303321/portfolio-frontend:v1
+ 1046  npm i nodemon
+ 1047  npm start
+ 1048  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio-frontend:v1
+ 1049  gcloud run deploy portfolio-blog-frontend  --image gcr.io/portfolio-blog-303321/portfolio-frontend:v1
+ 1050  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio-frontend:v1
+ 1051  gcloud run deploy portfolio-blog-frontend  --image gcr.io/portfolio-blog-303321/portfolio-frontend:v1
+ 1052  cd ../backend
+ 1053  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio-backend:v1
+ 1054  gcloud run deploy portfolio-blog-backend  --image gcr.io/portfolio-blog-303321/portfolio-backend:v1
+ 1055  npm run dev
+ 1056  cd frontend
+ 1057  npm run dev
+ 1058  cd ../fr
+ 1059  cd ../frontend
+ 1060  npm run dev
+ 1061  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio-frontend:v1
+ 1062  gcloud run deploy portfolio-blog-frontend  --image gcr.io/portfolio-blog-303321/portfolio-frontend:v1
+ 1063  cd backend
+ 1064  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio-backend:v1
+ 1065  gcloud run deploy portfolio-blog-backend  --image gcr.io/portfolio-blog-303321/portfolio-backend:v1
+ 1066  touch gcs_cors.json
+ 1067  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio-backend:v1
+ 1068  gcloud run deploy portfolio-blog-backend  --image gcr.io/portfolio-blog-303321/portfolio-backend:v1
+ 1069  pip install PIL
+ 1070  pip3 install PIL
+ 1071  pip3 install PIL --user
+ 1072  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio-backend:v1
+ 1073  gcloud run deploy portfolio-blog-backend  --image gcr.io/portfolio-blog-303321/portfolio-backend:v1
+ 1074  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio-backend:v1
+ 1075  gcloud run deploy portfolio-blog-backend  --image gcr.io/portfolio-blog-303321/portfolio-backend:v1
+ 1076  gcloud config set run/region asia-east1
+ 1077  cd ../frontend
+ 1078  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio-frontend:v1
+ 1079  gcloud run deploy portfolio-blog-frontend  --image gcr.io/portfolio-blog-303321/portfolio-frontend:v1
+ 1080  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio-frontend:v1
+ 1081  gcloud run deploy portfolio-blog-frontend  --image gcr.io/portfolio-blog-303321/portfolio-frontend:v1
+ 1082  cd ser
+ 1083  cd backend
+ 1084  npm run dev
+ 1085  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio-frontend:v1
+ 1086  cd backend
+ 1087  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio-backend:v1
+ 1088  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio-frontend:v1
+ 1089  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio-backend:v1
+ 1090  cd frontend
+ 1091  npm start
+ 1092  gcloud run deploy portfolio-blog-backend  --image gcr.io/portfolio-blog-303321/portfolio-backend:v1
+ 1093  gcloud run deploy portfolio-blog-frontend  --image gcr.io/portfolio-blog-303321/portfolio-frontend:v1
+ 1094  npm start
+ 1095  npm run start
+ 1096  npm run dev
+ 1097  gcloud builds submit --tag gcr.io/portfolio-blog-303321/portfolio-frontend:v1
+ 1098  gcloud run deploy portfolio-blog-frontend  --image gcr.io/portfolio-blog-303321/portfolio-frontend:v1
+ 1099  cd ..
+ 1100  git add .
+ 1101  git commit -m  "gcp-deploy"
+ 1102  git push origin master
+ 1103  open .
+ 1104  git pull origin naman-local
+ 1105  cd server
+ 1106  npm run dev
+ 1107  cd frontend
+ 1108  npm i 
+ 1109  npm run dev
+ 1110  cd frontend
+ 1111  next export
+ 1112  npm run export
+ 1113  npm run build
+ 1114  npm run export
+ 1115  xcode-select --install
+ 1116  brew update
+ 1117  brew upgrade
+ 1118  cd Desktop
+ 1119  mkdir ht
+ 1120  cd ht
+ 1121  httrack http://preview.themeforest.net/item/zonar-creative-responsive-personal-agency-portfolio/full_screen_preview/28465020\?_ga\=2.185965545.1318749253.1615622374-1511266083.1615622132
+ 1122  open .
+ 1123  cd Desktop
+ 1124  git clone --single-branch --branch naman-local https://github.com/QuantaVid/QuantaVid.git
+ 1125  git clone --single-branch --branch dev https://github.com/QuantaVid/QuantaVid.git
+ 1126  git clone --single-branch --branch dev https://github.com/QuantaVid/QuantaVid.git Quantavid-dev
+ 1127  git clone --single-branch --branch rohan-local https://github.com/QuantaVid/QuantaVid.git Quantavid-rohan-local
+ 1128  git clone --single-branch --branch naman-local https://github.com/QuantaVid/QuantaVid.git Desktop/Quantavid-naman-local
+ 1129  cd Desktop/Quantavid-naman-local
+ 1130  code .
+ 1131  git branch
+ 1132  git add .
+ 1133  git commit -m "form-page"
+ 1134  git pull origin naman-local
+ 1135  git push origin naman-local
+ 1136  git pull origin naman-local
+ 1137  cd server
+ 1138  npm run dev
+ 1139  npm i 
+ 1140  cd frontend
+ 1141  npm i 
+ 1142  npm i --force
+ 1143  cd ../Quantavid-rohan-local
+ 1144  cd server
+ 1145  npm i 
+ 1146  cd ../frontend
+ 1147  npm i 
+ 1148  npm i --force
+ 1149  cd ../../Quantavid-dev
+ 1150  cd server
+ 1151  npm i 
+ 1152  cd ../frontend
+ 1153  npm i --force
+ 1154  cd ../server
+ 1155  npm run dev
+ 1156  cd frontend
+ 1157  npm run dev
+ 1158  cd frontend
+ 1159  npm run dev
+ 1160  brew update
+ 1161  brew upgrade
+ 1162  git clone --sngle-branch --branch naman-local https://github.com/QuantaVid/QuantaVid.git Desktop/naman-local
+ 1163  git clone --single-branch --branch naman-local https://github.com/QuantaVid/QuantaVid.git Desktop/naman-local
+ 1164  cd bac
+ 1165  cd backend/
+ 1166  npm run dev
+ 1167  npm i nodemon
+ 1168  npm run dev
+ 1169  cd
+ 1170  mongod --dbpath=/Users/namangupta/data
+ 1171  cd backend
+ 1172  npm i multer
+ 1173  NPM RUN DEV
+ 1174  npm run dev
+ 1175  mongod --dbpath=/Users/namangupta/data
+ 1176  npm run dev
+ 1177  mongod --dbpath=/Users/namangupta/data
+ 1178  npm run dev
+ 1179  cd backend
+ 1180  npm i express-fileupload
+ 1181  cd backend
+ 1182  cd ./user_data/BVEGKRpEM/
+ 1183  ls
+ 1184  rm -rf movies
+ 1185  ls
+ 1186  cd ../../
+ 1187  cd ..
+ 1188  ls -ltr
+ 1189  sudo chmod 777 user_data
+ 1190  ls -ltr
+ 1191  cd Downloads
+ 1192  ls -ltr
+ 1193  cd ../Desktop
+ 1194  ls-ltr
+ 1195  ls -ltr
+ 1196  sudo chmod 777 Screenshot\ 2021-01-11\ at\ 9.45.33\ PM.png
+ 1197  cd Web-Development/GDriveProject
+ 1198  open .
+ 1199  cd Desktop
+ 1200  git clone --single-branch --branch rohan-local https://github.com/QuantaVid/QuantaVid.git rohan-local
+ 1201  git clone --single-branch --branch naman-local https://github.com/QuantaVid/QuantaVid.git naman-local
+ 1202  cd rohan-local
+ 1203  code .
+ 1204  cd ../naman-local
+ 1205  code .
+ 1206  cd 035_wrapper_component_user_route
+ 1207  cd client
+ 1208  npm i 
+ 1209  cd 035_wrapper_component_user_route/server
+ 1210  npm i
+ 1211  npm start
+ 1212  mongod --dbpath=/Users/namangupta/data
+ 1213  npm run dev
+ 1214  cd 034_protected_page
+ 1215  cd server
+ 1216  npm i 
+ 1217  cd ../client
+ 1218  npm i 
+ 1219  cd ../server
+ 1220  npm start
+ 1221  cd 034_protected_page/client
+ 1222  npm run dev
+ 1223  cd 034_protected_page/server/
+ 1224  grep -rnw . -e "JSON.parse"
+ 1225  grep -rnw . -e "JSON.parse" --exclude-dir=node_modules
+ 1226  grep -rnw . -e "JSON.parse" --exclude-dir="node_modules"
+ 1227  grep -rnw . -e "JSON.parse" -R --exclude-dir="node_modules"
+ 1228  grep -R --exclude-dir=node_modules -rnw . -e "JSON"
+ 1229  grep -rnw . -e "res" --exclude-dir=node_modules
+ 1230  grep -rnw . -e "JSON" --exclude-dir=node_modules
+ 1231  cd ../client
+ 1232  grep -rnw . -e "JSON" --exclude-dir=node_modules
+ 1233  grep -rnw . -e "JSON.parse" --exclude-dir={node_modules,.next}
+ 1234  cd server
+ 1235  npm i
+ 1236  cd frontend
+ 1237  npm i 
+ 1238  npm run dev
+ 1239  cd frontend
+ 1240  grep -rnw . -e "/gif/ripple.gif"
+ 1241  grep -rnw . -e "updateSlide"
+ 1242  cd frontend
+ 1243  grep -rnw . -e "updateSlide"
+ 1244  grep -rnw . -e "updateSlide" --exclude-dir={node_modues,.next}
+ 1245  grep -rnw . -e "VideoContext" --exclude-dir={node_modues,.next}
+ 1246  cd ..
+ 1247  git add .
+ 1248  git commit -m "preloader-and-private-pages"
+ 1249  git push origin naman-local
+ 1250  history
+ 1251  cd Desktop
+ 1252  history > history.txt
+ 1253  cd Desktop/Web-Development
+ 1254  find . -type d --name "node_modules" - exec rm -rf '{}' +
+ 1255  find . -type d -name "node_modules" - exec rm -rf '{}' +
+ 1256  find . -type d -name "node_modules" exec rm -rf '{}' +
+ 1257  find . -type d -name "node_modules" | exec rm -rf '{}' +
+ 1258  cd Desktop/Web-Development
+ 1259  ls
+ 1260  cd GDriveProject
+ 1261  ls
+ 1262  cd backend
+ 1263  ls
+ 1264  cd ../..
+ 1265  find . -name 'node_modules' -type d -prune -exec rm -rf '{}' /
+ 1266  cd Desktop
